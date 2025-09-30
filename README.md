@@ -9,7 +9,7 @@ API REST desenvolvida em Java com Spring Boot para gerenciamento acadêmico. Per
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- PostgreSQL (ou outro banco relacional)
+- H2 (ou outro banco relacional)
 - Maven
 - Swagger (opcional para documentação)
 
